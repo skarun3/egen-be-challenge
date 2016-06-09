@@ -14,8 +14,8 @@ create metric (POST)    	-- http://localhost:8080/weight
 
 Git Repositories
 =============================================
-https://github.com/skarun3/EgenAlerts.git
-https://github.com/skarun3/EgenMetrics.git
+EgenAlerts  --  https://github.com/skarun3/EgenAlerts.git
+EgenMetrics -- https://github.com/skarun3/EgenMetrics.git
 
 General Comments
 =============================================
